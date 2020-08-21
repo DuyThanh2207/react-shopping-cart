@@ -21,13 +21,29 @@
             "image": "https://clickbuy.com.vn/uploads/2019/03/apple-iphone-xr-vang.png",
             "description": "about iphone xr",
             "price": 11,
-            "availableColor": ["Grey", "Red"]
+            "availableColor": ["Grey", "Red", "Yellow"]
         },
         {
             "_id": "iphonex",
             "title": "Iphone X",
             "image": "https://www.xtmobile.vn/vnt_upload/product/04_2018/thumbs/600_ip_X_white_800x800_3.jpg",
             "description": "about iphone x",
+            "price": 10.5,
+            "availableColor": ["Grey", "Red"]
+        },
+        {
+            "_id": "iphonexsmax",
+            "title": "Iphone XS Max",
+            "image": "https://cdn.tgdd.vn/Products/Images/42/190321/iphone-xs-max-gold-600x600.jpg",
+            "description": "about iphone xs max",
+            "price": 10.5,
+            "availableColor": ["Grey", "Red"]
+        },
+        {
+            "_id": "iphonexs",
+            "title": "Iphone XS",
+            "image": "https://www.thegioididong.com/images/42/190323/iphone-xs-gold-600x600-2-400x400.jpg",
+            "description": "about iphone xs",
             "price": 10.5,
             "availableColor": ["Grey", "Red"]
         }
