@@ -1,0 +1,35 @@
+{
+    "products": [{
+            "_id": "iphone11",
+            "title": "Iphone 11",
+            "image": "https://cdn.cellphones.com.vn/media/catalog/product/cache/7/image/9df78eab33525d08d6e5fb8d27136e95/i/p/iphone11-purple-select-2019.png",
+            "description": "about iphone 11",
+            "price": 16,
+            "availableColor": ["Grey", "Red"]
+        },
+        {
+            "_id": "iphone11promax",
+            "title": "Iphone 11 Pro Max",
+            "image": "https://cdn.cellphones.com.vn/media/catalog/product/cache/7/image/9df78eab33525d08d6e5fb8d27136e95/i/p/iphone-11-pro-max-space-select-2019.png",
+            "description": "about iphone 11 promax",
+            "price": 23,
+            "availableColor": ["Grey", "Red"]
+        },
+        {
+            "_id": "iphonexr",
+            "title": "Iphone Xr",
+            "image": "https://clickbuy.com.vn/uploads/2019/03/apple-iphone-xr-vang.png",
+            "description": "about iphone xr",
+            "price": 11,
+            "availableColor": ["Grey", "Red"]
+        },
+        {
+            "_id": "iphonex",
+            "title": "Iphone X",
+            "image": "https://www.xtmobile.vn/vnt_upload/product/04_2018/thumbs/600_ip_X_white_800x800_3.jpg",
+            "description": "about iphone x",
+            "price": 10.5,
+            "availableColor": ["Grey", "Red"]
+        }
+    ]
+}
