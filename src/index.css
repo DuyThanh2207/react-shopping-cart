@@ -35,6 +35,10 @@ a:hover {
 }
 
 header {
+    z-index: 10000;
+    position: fixed;
+    width: 100%;
+    height: 4rem;
     grid-area: header;
     background-color: #203040;
     color: #ffffff;
@@ -246,4 +250,37 @@ label {
 input {
     padding: 1rem;
     border: 0.1rem #c0c0c0 solid;
+}
+
+
+/* Product Details */
+
+.product-details {
+    display: flex;
+    max-width: 95%;
+    justify-content: space-between;
+    max-height: 96vh;
+}
+
+.product-details img {
+    max-height: 100vh;
+    max-width: 46rem;
+    margin: 5rem;
+}
+
+.product-details-description {
+    flex: 1 1;
+    margin: 1rem auto;
+}
+
+.product-details-description p {
+    font-size: 15px;
+    line-height: 4rem;
+}
+
+.close-modal {
+    position: absolute;
+    right: 2rem;
+    top: 2.5rem;
+    z-index: 10000;
 }
